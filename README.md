@@ -1,8 +1,7 @@
 # hello-world
-just another repository
+This is practice repository.
 
-hello guys!
+1. Merging of two different history , while using push or pull 
+	error solved using <code>–allow-unrelated-histories</code>
 
-raushan here, i new to github. i like to work on c,c++,java,.jsp,android app.
 
-jsdhjkfhsjk
