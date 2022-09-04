@@ -6,5 +6,7 @@ This is practice repository.
 	
 2. Alias use:
 	<code>git config --global alias.fulltree 'log --oneline --color --graph --decorate --all'</code>
+3. Creating new Branch:
+	<code>git checkout -b feature-1</code>
 
 
