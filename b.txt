@@ -1,3 +1,6 @@
+Change in code after pull and push
+fatal: refusing to merge unrelated histories
+Git pull origin master –allow-unrelated-histories
 adding another file b name
 more line added.
 Exztra line added.
